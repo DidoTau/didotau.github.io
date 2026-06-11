@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://didotau.github.io/sitemap.xml
